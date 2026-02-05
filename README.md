@@ -39,7 +39,7 @@ An interactive Power BI dashboard was built using cleaned and structured data to
 ---
 
 ## 📂 Project Structure
-'''
+```
 Sales-Revenue-Intelligence/
 ├── dashboard/
 │ └── Sales_Revenue_Intelligence.pbix
@@ -49,7 +49,7 @@ Sales-Revenue-Intelligence/
 │ ├── dashboard_overview.png
 │ └── kpi_section.png
 └── README.md
-'''
+```
 
 
 ---
